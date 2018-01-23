@@ -8,8 +8,8 @@ CommandLine tools for terminal.
 
  Add .bashrc alias.
 
- "alias ggr='dowloaded direcrory/ggr.sh'"
+ "alias ggr='downloaded direcrory/ggr.sh'"
 
  reboot terminal.
 
- press ggr and search key-ward.
+ press ggr and search key-word.
